@@ -96,6 +96,7 @@ function getGuideSidebar(start) {
       title: start,
       collapsable: false,
       children: ['', 'getting-started']
-    }
+    },
+    'run-on-android'
   ];
 }

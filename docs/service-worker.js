@@ -24,84 +24,96 @@ self.__precacheManifest = [
     "revision": "f31032253edf454e1280c009ce0277a5"
   },
   {
-    "url": "assets/css/10.styles.302306e8.css",
-    "revision": "68b329da9893e34099c7d8ad5cb9c940"
-  },
-  {
-    "url": "assets/css/4.styles.36f8662f.css",
-    "revision": "5792a02549211697611eab7871fd9a00"
-  },
-  {
-    "url": "assets/css/6.styles.acb48384.css",
-    "revision": "5792a02549211697611eab7871fd9a00"
-  },
-  {
-    "url": "assets/css/8.styles.b96d95ab.css",
+    "url": "assets/css/10.styles.f8e525c9.css",
     "revision": "4bbce5651b58e620b166c2ea49c25ca1"
   },
   {
-    "url": "assets/css/9.styles.0cb7e971.css",
+    "url": "assets/css/11.styles.4c77fcd7.css",
     "revision": "bfae747143c495094b77483463aabeb5"
   },
   {
-    "url": "assets/css/styles.507342c2.css",
+    "url": "assets/css/12.styles.6925c946.css",
+    "revision": "68b329da9893e34099c7d8ad5cb9c940"
+  },
+  {
+    "url": "assets/css/4.styles.2304e433.css",
+    "revision": "5792a02549211697611eab7871fd9a00"
+  },
+  {
+    "url": "assets/css/7.styles.e159f18d.css",
+    "revision": "5792a02549211697611eab7871fd9a00"
+  },
+  {
+    "url": "assets/css/styles.a8a155fa.css",
     "revision": "9dd9925c1363ab8564ed93979c850990"
   },
   {
-    "url": "assets/js/10.9eb29aa0.js",
-    "revision": "341027d64e88ba5852fca37f1afbf0f4"
+    "url": "assets/js/12.f9603732.js",
+    "revision": "ba4cfcad4071a4a53066759bdd487830"
   },
   {
-    "url": "assets/js/app.9eb29aa0.js",
-    "revision": "af038927a0fa09c7e142bf73e6013eb9"
+    "url": "assets/js/app.f9603732.js",
+    "revision": "65f50d12d1420f661ceec750089681ae"
   },
   {
-    "url": "assets/js/en-US/guide/getting-started.md.9eb29aa0.js",
-    "revision": "a9762ed994439522e8d3537b841de8c4"
+    "url": "assets/js/en-US/guide/getting-started.md.f9603732.js",
+    "revision": "9090935bc3c190c4a9630f13116f2d4d"
   },
   {
-    "url": "assets/js/en-US/guide/README.md.9eb29aa0.js",
-    "revision": "58d6494490f468bb2c7a7e2db8f0de2c"
+    "url": "assets/js/en-US/guide/README.md.f9603732.js",
+    "revision": "8d2203199b3b3b6d9922309415768063"
   },
   {
-    "url": "assets/js/en-US/README.md.9eb29aa0.js",
-    "revision": "6b97668c57a4e057cae66d1357486519"
+    "url": "assets/js/en-US/guide/run-on-android.md.f9603732.js",
+    "revision": "7abfb676fb2e4e4c6ab8eb234395bc1d"
   },
   {
-    "url": "assets/js/guide/getting-started.md.9eb29aa0.js",
-    "revision": "9c67058e84dac3786c4d13645d8aa19b"
+    "url": "assets/js/en-US/README.md.f9603732.js",
+    "revision": "740524fe34235df6894047e9bd71a468"
   },
   {
-    "url": "assets/js/guide/README.md.9eb29aa0.js",
-    "revision": "aea807fdb6c25d943c1e31cbd1466d79"
+    "url": "assets/js/guide/getting-started.md.f9603732.js",
+    "revision": "2af18a3bc54b819e26bd3610d3eaf95e"
   },
   {
-    "url": "assets/js/LayoutWrapper.9eb29aa0.js",
-    "revision": "76d5ad62e09018be9c5129efe0296a7a"
+    "url": "assets/js/guide/README.md.f9603732.js",
+    "revision": "bb221130b5d1fa4c39a7c3d1dd64409a"
   },
   {
-    "url": "assets/js/notFoundWrapper.9eb29aa0.js",
-    "revision": "609dd6c650acab8301d33ceb33556131"
+    "url": "assets/js/guide/run-on-android.md.f9603732.js",
+    "revision": "c38e1f3a816d7ae10f95f9b425534e30"
   },
   {
-    "url": "assets/js/README.md.9eb29aa0.js",
-    "revision": "9947e4c7dc267db35729d406dfbbcc1c"
+    "url": "assets/js/LayoutWrapper.f9603732.js",
+    "revision": "73a52a6a640fa277fc912ee832b42977"
   },
   {
-    "url": "assets/js/vendors~LayoutWrapper.9eb29aa0.js",
-    "revision": "52bdd61dfe1bb20906a634f7c76a295a"
+    "url": "assets/js/notFoundWrapper.f9603732.js",
+    "revision": "ae1b3c6527b49de020f12dba506724d8"
+  },
+  {
+    "url": "assets/js/README.md.f9603732.js",
+    "revision": "38d4102de46e52a0910c3dcc6fe55142"
+  },
+  {
+    "url": "assets/js/vendors~LayoutWrapper.f9603732.js",
+    "revision": "e2280ff3d843f3b49ea98ce8237781ab"
   },
   {
     "url": "en-US/guide/getting-started.html",
-    "revision": "c2dc43f8703529ebbeb206940514a01a"
+    "revision": "de5380618afb06b56e95a7bbb853bc23"
   },
   {
     "url": "en-US/guide/index.html",
-    "revision": "18132f3a983f26f8a3fa0c6f729b9f9c"
+    "revision": "2be66c1fffaec7f039c7498e93ab68ca"
+  },
+  {
+    "url": "en-US/guide/run-on-android.html",
+    "revision": "9922a95144a954a4f3fbea61945e9979"
   },
   {
     "url": "en-US/index.html",
-    "revision": "0b2fc41c2b1d1eed75459d96f00bf12f"
+    "revision": "66f975c7636e974243b1e5667a4c640a"
   },
   {
     "url": "favicon.png",
@@ -113,15 +125,19 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/getting-started.html",
-    "revision": "ee58e00a914270d58dab0ae3b1d30bf3"
+    "revision": "2997132eb454219e7ef46ca938b2e14e"
   },
   {
     "url": "guide/index.html",
-    "revision": "b4a73fb860d30c5e45517b6f6bd0873b"
+    "revision": "8dded4298bd2183b577ff704bae94cb0"
+  },
+  {
+    "url": "guide/run-on-android.html",
+    "revision": "554d7c631f6c5bb0ca64bdb1a89ff409"
   },
   {
     "url": "index.html",
-    "revision": "090c768870c5f4e5bcb0581865a3d327"
+    "revision": "915240e1ca8db9acf83205c061930c98"
   },
   {
     "url": "iris-icon.svg",
