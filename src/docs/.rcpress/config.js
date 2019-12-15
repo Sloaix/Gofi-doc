@@ -46,6 +46,10 @@ module.exports = {
             link: 'http://gofi.sloaix.com'
           },
           {
+            text: '完善文档',
+            link: 'https://github.com/Sloaix/Gofi-doc'
+          },
+          {
             text: 'GitHub',
             link: 'https://github.com/Sloaix/Gofi',
             important: true
@@ -68,6 +72,10 @@ module.exports = {
           {
             text: 'Preview Site',
             link: 'http://gofi.sloaix.com'
+          },
+          {
+            text: 'Improve Document',
+            link: 'https://github.com/Sloaix/Gofi-doc'
           },
           {
             text: 'GitHub',
