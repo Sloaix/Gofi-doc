@@ -1,0 +1,14 @@
+# 发版公告
+
+具体编译产物请查看[Github Release](https://github.com/Sloaix/Gofi/releases)
+
+## v0.5.2
+
+- 优化了 GetLanIP 方法.[#5](https://github.com/Sloaix/Gofi/issues/5)
+>
+从所有ip地址中中去拿属于
+"192.168.0.0/16",
+"172.16.0.0/12",
+"10.0.0.0/8"
+这几个网段的ip作为前端请求的ip,如果本机的ip不属于以上任意网段，默认使用127.0.0.1作为ip地址。
+- 使用upx优化了编译包的大小

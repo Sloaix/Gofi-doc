@@ -43,7 +43,8 @@ module.exports = {
           },
           {
             text: '预览站点',
-            link: 'http://gofi.sloaix.com'
+            link: 'http://gofi.sloaix.com',
+            important: true
           },
           {
             text: '完善文档',
@@ -52,6 +53,11 @@ module.exports = {
           {
             text: '迭代计划',
             link: 'https://github.com/Sloaix/Gofi/projects'
+          },
+          {
+            text: '发版公告',
+            link: '/release-note/',
+            important: true
           },
           {
             text: 'GitHub',
