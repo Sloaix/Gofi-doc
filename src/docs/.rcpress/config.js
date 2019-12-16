@@ -38,7 +38,7 @@ module.exports = {
         lastUpdated: '上次更新于', // string | false
         nav: [
           {
-            text: '指南',
+            text: '使用指南',
             link: '/guide/'
           },
           {
@@ -48,6 +48,10 @@ module.exports = {
           {
             text: '完善文档',
             link: 'https://github.com/Sloaix/Gofi-doc'
+          },
+          {
+            text: '迭代计划',
+            link: 'https://github.com/Sloaix/Gofi/projects'
           },
           {
             text: 'GitHub',
@@ -66,7 +70,7 @@ module.exports = {
         lastUpdated: 'Last updated on', // string | false
         nav: [
           {
-            text: 'Guide',
+            text: 'Use Guide',
             link: '/en-US/guide/'
           },
           {
@@ -76,6 +80,10 @@ module.exports = {
           {
             text: 'Improve Document',
             link: 'https://github.com/Sloaix/Gofi-doc'
+          },
+          {
+            text: 'Iteration Plan',
+            link: 'https://github.com/Sloaix/Gofi/projects'
           },
           {
             text: 'GitHub',
@@ -105,6 +113,7 @@ function getGuideSidebar(start) {
       collapsable: false,
       children: ['', 'getting-started']
     },
-    'run-on-android'
+    'run-on-android',
+    'mission',
   ];
 }

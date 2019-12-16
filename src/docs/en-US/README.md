@@ -12,6 +12,10 @@ features:
     details: Modern User Interface based on Ant Design Vue Pro,and support i18n
 ---
 
+::: warning
+Gofi is still in a rapid iteration, and there may be security issues when deploying on the public network. At present, only local area network deployment is recommended.
+:::
+
 # Getting Start
 
 ## Download
