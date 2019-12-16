@@ -24,7 +24,7 @@ Gofi目前还处于快速迭代期间,在公网上部署可能存在安全性问
 
 ```bash
 # 下载MacOS平台版本,并重命名为gofi
-wget -O gofi https://github.com/Sloaix/Gofi/releases/download/v0.5.1/gofi-v0.5.1-darwin-10.6-amd64
+wget -O gofi https://github.com/Sloaix/Gofi/releases/latest/download/gofi-darwin-10.6-amd64
 ```
 
 ## 启动 Gofi

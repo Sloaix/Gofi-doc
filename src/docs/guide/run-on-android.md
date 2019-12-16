@@ -8,7 +8,7 @@
 
 ```bash
 # 下载Android版本的Gofi
-wget -O gofi https://github.com/Sloaix/Gofi/releases/download/v0.5.1/gofi-v0.5.1-android-16-arm
+wget -O gofi https://github.com/Sloaix/Gofi/releases/latest/download/gofi-android-16-arm
 ```
 
 ## 推送Gofi到设备

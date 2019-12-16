@@ -44,100 +44,100 @@ self.__precacheManifest = [
     "revision": "5792a02549211697611eab7871fd9a00"
   },
   {
-    "url": "assets/css/styles.6028edd0.css",
+    "url": "assets/css/styles.37e6adb0.css",
     "revision": "9dd9925c1363ab8564ed93979c850990"
   },
   {
-    "url": "assets/js/16.3972220c.js",
+    "url": "assets/js/16.2f1f2a3a.js",
     "revision": "28e4716854057e6f9e2ed7fbf8288b0c"
   },
   {
-    "url": "assets/js/app.3972220c.js",
-    "revision": "e1d796b007804015fa393dd8cb072335"
+    "url": "assets/js/app.2f1f2a3a.js",
+    "revision": "3b0e28a4f35203b072e12bf9b0d0a34b"
   },
   {
-    "url": "assets/js/en-US/guide/getting-started.md.3972220c.js",
+    "url": "assets/js/en-US/guide/getting-started.md.2f1f2a3a.js",
     "revision": "5709522f901a3036c6d6142090badce6"
   },
   {
-    "url": "assets/js/en-US/guide/mission.md.3972220c.js",
+    "url": "assets/js/en-US/guide/mission.md.2f1f2a3a.js",
     "revision": "6f8471528eabfd20a45864b7abc09515"
   },
   {
-    "url": "assets/js/en-US/guide/README.md.3972220c.js",
+    "url": "assets/js/en-US/guide/README.md.2f1f2a3a.js",
     "revision": "81f95ece3f07384519e2bfdde13fc581"
   },
   {
-    "url": "assets/js/en-US/guide/run-on-android.md.3972220c.js",
-    "revision": "7a800f0f33cb901cc6cd9957cf85afcf"
+    "url": "assets/js/en-US/guide/run-on-android.md.2f1f2a3a.js",
+    "revision": "146c6f0265445684ff76d9ade590ee22"
   },
   {
-    "url": "assets/js/en-US/README.md.3972220c.js",
-    "revision": "ed039a35f7a1e67f0bb40336dd81af7d"
+    "url": "assets/js/en-US/README.md.2f1f2a3a.js",
+    "revision": "21a05ccb7704677080f8c1d41baa3c4b"
   },
   {
-    "url": "assets/js/en-US/release-note.md.3972220c.js",
+    "url": "assets/js/en-US/release-note.md.2f1f2a3a.js",
     "revision": "5607631be302fab7fb67e2249d629393"
   },
   {
-    "url": "assets/js/guide/getting-started.md.3972220c.js",
+    "url": "assets/js/guide/getting-started.md.2f1f2a3a.js",
     "revision": "f87be653c231229fc965ee75329db6e4"
   },
   {
-    "url": "assets/js/guide/mission.md.3972220c.js",
+    "url": "assets/js/guide/mission.md.2f1f2a3a.js",
     "revision": "7477e72a90b8ff1a1b4299035674bffa"
   },
   {
-    "url": "assets/js/guide/README.md.3972220c.js",
+    "url": "assets/js/guide/README.md.2f1f2a3a.js",
     "revision": "1c0af7222ffd15fd1e155e927d86cf5e"
   },
   {
-    "url": "assets/js/guide/run-on-android.md.3972220c.js",
-    "revision": "bae8b5156d12c88c9354f6f8de488a48"
+    "url": "assets/js/guide/run-on-android.md.2f1f2a3a.js",
+    "revision": "0178b52141e95e3bac67354a887ec08b"
   },
   {
-    "url": "assets/js/LayoutWrapper.3972220c.js",
+    "url": "assets/js/LayoutWrapper.2f1f2a3a.js",
     "revision": "03a79d585f55f9ed01a215463487f3d9"
   },
   {
-    "url": "assets/js/notFoundWrapper.3972220c.js",
+    "url": "assets/js/notFoundWrapper.2f1f2a3a.js",
     "revision": "3f6c7997dea0fe7a94ac820770a15b6f"
   },
   {
-    "url": "assets/js/README.md.3972220c.js",
-    "revision": "a43e7bb8ceaed53c7777aa4a672b0758"
+    "url": "assets/js/README.md.2f1f2a3a.js",
+    "revision": "1581c1a6c846f9ca18a19dbcc6683210"
   },
   {
-    "url": "assets/js/release-note.md.3972220c.js",
+    "url": "assets/js/release-note.md.2f1f2a3a.js",
     "revision": "b679656c5a3bae9b83001a175786a025"
   },
   {
-    "url": "assets/js/vendors~LayoutWrapper.3972220c.js",
+    "url": "assets/js/vendors~LayoutWrapper.2f1f2a3a.js",
     "revision": "e0b5a4d7431dc915f2dcae9e53861ed2"
   },
   {
     "url": "en-US/guide/getting-started.html",
-    "revision": "723d60e7103295e9ad04ca0f4109f475"
+    "revision": "ab8e1ab237a55d0f4873b92455d403f5"
   },
   {
     "url": "en-US/guide/index.html",
-    "revision": "eeed49ef64001c7e67055b827fbc7bdd"
+    "revision": "82f9c87e3f670655377b498545a60307"
   },
   {
     "url": "en-US/guide/mission.html",
-    "revision": "81a954b59db9cbc073284736f3a937ff"
+    "revision": "89535ef6e2e3256a499166c7e8fe8520"
   },
   {
     "url": "en-US/guide/run-on-android.html",
-    "revision": "f58b0d954fa32cec2c17cd5f25a82c09"
+    "revision": "01cfcb7b822378d6e0871a619e356620"
   },
   {
     "url": "en-US/index.html",
-    "revision": "a074861a312a62235f580f6c5647b6e8"
+    "revision": "139603c9cc44917ee1b764a2f8c40f5c"
   },
   {
     "url": "en-US/release-note.html",
-    "revision": "92649b37413c2908460b889c583341ba"
+    "revision": "2b6b1172388659759fccd802a0a68d38"
   },
   {
     "url": "favicon.png",
@@ -149,23 +149,23 @@ self.__precacheManifest = [
   },
   {
     "url": "guide/getting-started.html",
-    "revision": "0128d5f3dfe27aaefc01a160a97f7535"
+    "revision": "d4db1906aabd13f54302e5e43c11920a"
   },
   {
     "url": "guide/index.html",
-    "revision": "b7164864c553099c7d21e3ac1c3056eb"
+    "revision": "a4f896b59e2c69fb202d08109cc458a4"
   },
   {
     "url": "guide/mission.html",
-    "revision": "c1afb476e9be8c24d122a7a9851c16c9"
+    "revision": "bea9790dd22a8be3f3d5d7ba5d49ea3e"
   },
   {
     "url": "guide/run-on-android.html",
-    "revision": "5d52d3f98f728a50bb2c287ad0a316d6"
+    "revision": "180719b47de010583eb6e626f0a01125"
   },
   {
     "url": "index.html",
-    "revision": "ca3e77bcf42ff975175446c6e707117e"
+    "revision": "1d86f6d7ec9a3bf982932e4108843fe3"
   },
   {
     "url": "iris-icon.svg",
@@ -185,7 +185,7 @@ self.__precacheManifest = [
   },
   {
     "url": "release-note.html",
-    "revision": "e44149f305e1672278044fe9cac6be3f"
+    "revision": "ccfe01aee9a4436a6daa77b10163e60d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
