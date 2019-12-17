@@ -2,8 +2,13 @@
 
 具体编译产物请查看[Github Release](https://github.com/Sloaix/Gofi/releases)
 
-## v0.5.2
+## v0.5.3
+新增视频、音频、文本图标显示功能，最后修改时间显示功能
+- feat: display file icon according to the file extesion
+- feat: show last modified column for list
 
+
+## v0.5.2
 - 优化了 GetLanIP 方法.[#5](https://github.com/Sloaix/Gofi/issues/5)
 >
 从所有ip地址中中去拿属于
