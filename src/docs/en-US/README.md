@@ -42,6 +42,6 @@ nohup ./gofi &
 ./gofi -p 80
 
 # server ip specified
-./gofi -p 80 -ip 114.114.114.114
+./gofi -p 80 -ip 251.251.251.251
 
 ```

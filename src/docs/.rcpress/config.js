@@ -15,7 +15,15 @@ module.exports = {
   },
   logo: '/favicon.png',
   head: [
-    ['link', { rel: 'icon', href: `/favicon.png` }]
+    ['link', { rel: 'icon', href: `/favicon.png` }],
+    ['script', { async: '', src: `https://www.googletagmanager.com/gtag/js?id=UA-154661106-1` }],
+    ['script', {},`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'UA-154661106-1');
+    `],
   ],
   serviceWorker: true,
   footer:
