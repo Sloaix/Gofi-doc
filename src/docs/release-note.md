@@ -2,6 +2,23 @@
 
 具体编译产物请查看[Github Release](https://github.com/Sloaix/Gofi/releases)
 
+## v0.5.4
+修复一些BUG，新增图片、文本、音频、视频预览功能。
+
+- fix: remove CheckIp function in unit test
+- fix: check path safety
+- feat: support audio file preview.
+- feat: add download button for preview page
+- feat: allow preview assets in browser
+- feat: add title for language switch icon.
+- feat: image,video,text file preview
+- fix: build problem, try to remove upx to fix it(#6)
+- refactor: backend response build method
+- refactor: file index navigation
+- refactor: make language depends on http header Accept-Language
+- feat: imporve preview mode for frontend ui
+
+
 ## v0.5.3
 新增视频、音频、文本图标显示功能，最后修改时间显示功能
 - feat: display file icon according to the file extesion
