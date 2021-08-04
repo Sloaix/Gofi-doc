@@ -1,0 +1,1 @@
+Gofi document static site, please don't star.
