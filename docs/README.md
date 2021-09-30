@@ -5,7 +5,7 @@ heroText: Gofi
 tagline: Gofi is an application for building personal cloud drives
 actions:
   - text: Star Gofi
-    link: https://github.com/Sloaix/Gofi 
+    link: https://github.com/Sloaix/Gofi
     type: primary
 features:
   - title: Easy to deploy
@@ -36,27 +36,21 @@ chmod +x gofi
 default port of gofi is 8080, which can specified by using `-p` option.
 
 ```bash
-# run
+# run (default is 8080)
 ./gofi
+
+# run as daemon
+nohup ./gofi &
 
 # 80 port (need sudo permission)
 ./gofi -p 80
 
-# server ip specified
-./gofi -p 80 -ip 251.251.251.251
-
 # docker
-docker pull sloaix/gofi:latest
 docker run -d \
         --name=gofi \
-        -p 80:80 \
+        -p 80:8080 \
         -v /path/to/app:/app \
         -v /path/to/storage:/app/storage \
         --restart unless-stopped \
-        sloaix/gofi:latest \
-        -p=80 \
-        -ip=api.gofi.domain
-
-# ip parameter refers to the back-end api ip, if set incorrectly, the front-end will not be able to obtain data.  
-
+        sloaix/gofi:latest
 ```

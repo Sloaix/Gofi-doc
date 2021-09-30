@@ -4,8 +4,8 @@ heroImage: /images/logo.svg
 heroText: Gofi
 tagline: Gofi是一款用于构建个人云盘的应用
 actions:
-  - text: 关注Gofi 
-    link: https://github.com/Sloaix/Gofi 
+  - text: 关注Gofi
+    link: https://github.com/Sloaix/Gofi
     type: primary
 features:
   - title: 易部署
@@ -36,7 +36,7 @@ chmod +x gofi
 gofi 的默认端口号是 8080,您可以使用`-p`选项进行更改
 
 ```bash
-# 直接运行
+# 直接运行 默认端口8080
 ./gofi
 
 # 后台运行
@@ -45,22 +45,12 @@ nohup ./gofi &
 # 指定端口号(可能需要sudo权限)
 ./gofi -p 80
 
-# 指定spa应用api的服务器ip地址(如果是在公网环境需要指定，局域网会自动获取)
-./gofi -p 80 -ip 251.251.251.251
-
-
 # docker
-docker pull sloaix/gofi:latest
 docker run -d \
         --name=gofi \
-        -p 80:80 \
+        -p 80:8080 \
         -v /path/to/app:/app \
         -v /path/to/storage:/app/storage \
         --restart unless-stopped \
-        sloaix/gofi:latest \
-        -p=80 \
-        -ip=api.gofi.domain
-        
-# ip参数指的是后端api的ip，如果设置不正确，前端将无法获得数据。
-
+        sloaix/gofi:latest
 ```
